@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Regression with AutoML
 A Regression project using Automated Machine Learning.
 
@@ -24,3 +25,4 @@ This project’s main objective is to showcase the PyCaret and Pandas Profiling 
 
 ## 🔗 Let’s Connect
 Feel free to explore, fork, or contribute to this project! If you have any questions or suggestions, don’t hesitate to reach out.
+
