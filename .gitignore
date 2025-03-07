@@ -1,0 +1,41 @@
+# Ignore the virtual environment folder
+venv_regression/
+
+# Ignore system files
+.DS_Store
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Ignore environment configuration files
+.env
+*.env
+
+# Ignore output files and datasets
+*.csv
+*.xlsx
+*.json
+*.parquet
+
+# Ignore model files and large binaries
+*.h5
+*.pkl
+*.joblib
+*.onnx
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Git-related files
+.git/
