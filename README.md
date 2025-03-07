@@ -1,6 +1,4 @@
-<p align="center">
 # Regression with AutoML
-</p>
 
 ## **Health Insurance Cost Prediction**
 
